@@ -1,0 +1,8 @@
+
+{
+  "name": "IELTS GradeMaster",
+  "description": "A professional tool for IELTS teachers to scan, grade, and provide detailed feedback on handwritten student essays using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
